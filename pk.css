@@ -1,0 +1,56 @@
+BODY {
+	MARGIN: 0px;
+	background-color: #D4D7C7;
+	background-repeat: repeat-y;
+	background-position: center;
+	background-image: url(pk-back.gif);
+}
+A {
+	COLOR: #CC6600; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #CC6600; TEXT-DECORATION: underline
+}
+A:visited {
+	COLOR: #CC6600
+}
+
+.arialcinza11 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+.arialcinza11b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+	font-weight: bold;
+}
+
+.arialcinza12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+
+.arialcinza12b {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	font-weight: bold;
+}
+.titulo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #333333;
+	font-weight: bold;
+
+}
+.arialcinza14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #666666;
+}
+.arialcinza20 { font-family: Geneva, Arial, Helvetica, san-serif; font-size: 18px; font-weight: normal; color: #336666; ; font-style: italic; font-variant: normal; text-align: center}
